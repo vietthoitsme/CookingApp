@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CookingApp</string>
+    <string name="new_user_signup">New User? <b>SignUp</b></string>
+    <string name="ingredients"><li>      <ul>Thịt đùi và cánh gà - 1kg</ul>
+        <ul>Bột mì - 50g</ul>
+        <ul>Bột năng - 20g</ul>
+        <ul>Trứng gà - 1 quả</ul>
+        <ul>Muối, hạt nêm, bột tỏi </ul>
+        <ul>Bột chiên xù - 50g</ul>
+        <ul>Bột ớt </ul>
+        <ul>Tương cà, tương ớt</ul></li></string>
+    <string name="instructions"><li><ul><b>Bước 1:</b> Rửa sạch thịt gà dưới vòi nước chảy. Dùng muối và gừng tươi đập dập chà xát bên ngoài trong khoảng 5 phút rồi rửa sạch (giúp loại bỏ mùi hôi, tanh và các sợi lông còn sót lại). Chặt thịt gà thành 2 nửa nếu quá to so với nồi. Sau đó để ráo nước.</ul>
+ <ul><b>Bước 2:</b> Chuẩn bị nước sốt gồm: củ sả đập dập thái nhỏ, hạt tiêu, lá chanh thái nhỏ, nước mắm, tương tamari, dầu mè vào bát trộn đều (không ướp mật ong ngay nhé).</ul>
+ <ul><b>Bước 3:</b> Ướp thịt gà với hỗn hợp sốt trong vòng 20 – 30 phút. Thi thoảng lại trộn đều để gà ngấm gia vị.</ul>
+        <ul><b>Bước 4:</b> Cho gà vào nồi chiên. Quết qua 1 lớp dầu mè rồi chỉnh nhiệt lên 200 độ. Nướng lần 1 trong 15 phút.</ul>
+        <ul><b>Bước 5:</b> Lật mặt gà, tiếp tục nướng lần 2 trong 190 độ và 15 phút.</ul>
+        <ul><b>Bước 6:</b> Tiếp tục quét thêm 1 lớp mật ong rồi bật nướng 180 trong 2p nữa thế là xong.</ul>
+    </li></string>
+    <string name="today_tips">Today tips</string>
+    <string name="tip_note_title">Delicious food every day</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="thoj_gmail_com">thoj@gmail.com</string>
+    <string name="add_category">+ Add Recipe</string>
+    <string name="submit">Submit</string>
+    <string name="continue_without_login">Continue without login</string>
+    <string name="welcome_to_cooking_app">Welcome to Cooking App</string>
+</resources>
